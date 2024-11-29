@@ -1,9 +1,12 @@
 body {
-	background-color: #a3b18a;
-	color: #588157;
+	background-color: #3a5a40;
 }
 
 .container {
-	background-color: #d5ddbc;
-	padding: 20px;
+	background-color: #a3b18a;
+	padding: 15px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
+
